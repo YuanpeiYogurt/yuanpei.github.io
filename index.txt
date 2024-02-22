@@ -1,24 +1,20 @@
-vCard - Personal Portfolio
+Yuanpei Gao - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Yuanpei Gao
+Yuanpei Gao
+PhD Student @ University of British Columbia
 
 Show Contacts
 
 Email
-richard@example.com
+yuanpeig@ece.ubc.ca
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+Vancouver, BC, Canada
+Austin, Texas, USA
 
 # navbar
 
